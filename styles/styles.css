@@ -1,0 +1,25 @@
+
+            #paragraph{
+                font-size:40px;
+                color: red;
+            }
+            .font-selector{
+                font-family:Arial;
+            }
+            h2{
+                color:blue;
+            }
+            .hello-world-selector{
+                color: green;
+            }
+            h1{
+                font-family:courier;
+                font-size:25px;
+                text-align: center;
+            }
+            p{
+                font-size:15px;
+            }
+            .byline{
+                text-align: center;
+            }
